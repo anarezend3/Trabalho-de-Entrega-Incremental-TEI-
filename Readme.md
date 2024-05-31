@@ -9,6 +9,6 @@ Este trabalho tem por objetivo permitir ao aluno escrever um projeto de pesquisa
 * Luidi Cadete Silva
 
 
-## Orientador de Acadêmico
+## Orientador Acadêmico
 
 * Lesandro Ponciano dos Santos

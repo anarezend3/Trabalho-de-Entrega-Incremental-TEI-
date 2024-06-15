@@ -16,7 +16,7 @@
 
 3. Resolver este problema é relevante porque _a avaliação do impacto da adoção de DevOps permite entender se essa abordagem realmente contribui para a melhoria da qualidade do software. Isso pode auxiliar organizações a decidirem sobre a implementação de práticas DevOps, considerando sua potencial contribuição para a redução de bugs, aumento da satisfação do usuário e melhoria na conformidade com os requisitos._
 
-4. O objetivo geral deste trabalho é _avaliar o impacto da adoção de DevOps na qualidade do software._
+4. O objetivo geral deste trabalho é _avaliar formas de adoção de DevOps por equipes de desenvolvimento de software e seu impacto na qualidade do software._
 
 5. Os *três* objetivos específicos deste trabalho são: _(1) CInvestigar se a adoção de práticas DevOps influencia significativamente a qualidade do software, avaliando métricas como a redução de bugs, a satisfação do usuário e a conformidade com os requisitos estabelecidos; (2) Examinar como a integração entre as equipes de desenvolvimento e operações, promovida pelo DevOps, afeta os gargalos de comunicação e os atrasos na entrega de software; (3) Analisar o impacto da automação de processos no DevOps na eficiência e confiabilidade da entrega contínua de software de alta qualidade._
 
@@ -34,7 +34,7 @@
 
 2. O segundo trabalho mais relacionado é "Expanding DevOps Principles and Best Practices Based on Practical View" (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994216), publicado no ano 2022, pelos autores Muntaha Alawneh;Imad M. Abbadi, porque ele trata de padrões da expansão dos princípios e melhorias das práticas do DevOps com base na visão prática.
 
-3. O terceiro trabalho mais relacionado é "Research on Software Quality Assurance Based on Software Quality Standards and Technology Management" (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8441142), publicado no ano 2018, pelos autores Peng Shen; Xiaoming Ding; Wenjun Ren; Chujun Yang, porque ele fala sobre a garantia de qualidade de software baseada em padrões de qualidade e gestão de tecnologia..
+3. O terceiro trabalho mais relacionado é "A Study of Adoption and Effects of DevOps Practices" (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10033313), publicado no ano 2022 pelos autores Tyron Offerman; Robert Blinde; Christoph Johann Stettina; Joost Visser, porque ele fala sobre um estudo sobre a adoção e efeitos das práticas DevOps.
 
 ## Materiais e Métodos
 
